@@ -1,0 +1,24 @@
+{
+  "name": "template_sass",
+  "version": "1.0.0",
+  "description": "template",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass src/sass:dist/css/ --style=compressed --watch",
+    "postcss": "postcss dist/css/style.css --use autoprefixer --dir dist/css/ --watch"
+  },
+  "author": "code-polaris044",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.62.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "cssnano": "^6.0.1",
+    "postcss-cli": "^10.1.0"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "> 0.25%, not dead"
+  ]
+}
