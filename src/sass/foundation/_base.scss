@@ -1,4 +1,12 @@
-@use "../component" as *;
+@use "../component"as *;
 // @media (width <= 30em) {
 //   // 幅が30em以上のスタイル
 // }
+
+.ff {
+    width: min(100%, 500px);
+    height: auto;
+
+    object-fit: cover;
+    aspect-ratio: 3/4;
+}
