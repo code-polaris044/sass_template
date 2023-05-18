@@ -2,7 +2,7 @@
 This remote repository is a template for sass.
 
 CSSの命名規則及びファイル構造は、[BEM](https://en.bem.info/)、[FLOCSS](https://github.com/hiloki/flocss)、[SMACSS](http://smacss.com/ja)にユーティリティファーストを
-混ぜたかたちになります。
+混ぜたかたちになります。<br>
 (CSS naming conventions and file structures are available at [BEM](https://en.bem.info/), [FLOCSS](https://github.com/hiloki/flocss), and [SMACSS](http://smacss.com/ja) Utilities First is mixed in.)
 
 ・[sass](https://sass-lang.com/guide)
